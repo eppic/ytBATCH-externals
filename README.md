@@ -1,3 +1,2 @@
 # ytBATCH-externals
-
-ffmpeg download for ytBATCH
+external downloads for ytBATCH
